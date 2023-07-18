@@ -1,0 +1,9 @@
+{
+    "segment_size": "512",
+    "storage_location": "storage/location_now",
+    "supportedFormats": [
+      "txt",
+      "audio",
+      "video"
+    ]
+}
