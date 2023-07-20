@@ -1,9 +1,1 @@
-{
-    "segment_size": "1024",
-    "storage_location": "storage/location_now",
-    "supportedFormats": [
-      "txt",
-      "audio",
-      "video"
-    ]
-  }
+{"segment_size":"1024","storage_location":"storage/location_now","supportedFormats":["txt","audio","video"]}
